@@ -140,5 +140,9 @@ If this platform helps you:
 - Share with friends
 - Star the GitHub repo ⭐
 
+- ## 🌐 Live Website
+
+👉 https://sql-learning-platform-hazel.vercel.app/
+
 Learning SQL properly can change careers.  
 This platform exists to make that possible.
